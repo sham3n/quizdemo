@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sammy\'s Quiz Demo App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Sammy\'s Quiz Demo App</string>
+
+    <string name="question_header">Question %d</string>
+    <string name="question">Which one is %s?</string>
+    <string name="choices">Choices</string>
+
+    <string name="sorry">Sorry that wasn\'t right answer!</string>
+    <string name="correct">That\'s right answer!</string>
+
+    <string name="try_again">Try again?</string>
+    <string name="another_quiz">Try another quiz?</string>
+</resources>
